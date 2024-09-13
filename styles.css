@@ -176,9 +176,10 @@ header nav ul li a:hover {
 
 /* Special Deals */
 #special-deals {
-    background-color: #fff;
+    background-color: #ebf2f8;
     padding: 40px 0;
     text-align: center;
+    border-radius: 30px;
 }
 
 #special-deals h2 {
@@ -194,7 +195,7 @@ header nav ul li a:hover {
     padding: 20px;
     border: 1px  #ddd;
     border-radius: 10px;
-    background-color: #f9f9f9;
+    background-color: #ebf2f8;
     flex-wrap: wrap;
 }
 
