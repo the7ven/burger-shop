@@ -224,11 +224,9 @@ header nav ul li a:hover {
 
 /* Footer */
 footer {
-    background-image: url(images/heroBG.jpg);
-    background-position: center;
-    background-size: cover;
-    color: #fffdfd;
-    padding: 20px 0;
+   background-color: #000000;
+   color: #fffdfd;
+   padding: 20px 0;
    text-align: center;
    font-weight: 800;
    
@@ -251,7 +249,7 @@ footer nav ul li {
 }
 
 footer nav ul li a {
-    color: #fff;
+    color: #dad6d6;
     text-decoration: none;
 }
 
